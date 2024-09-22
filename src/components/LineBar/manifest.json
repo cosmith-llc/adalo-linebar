@@ -4,6 +4,7 @@
   "description": "A customizable line bar component",
   "defaultWidth": 300,
   "defaultHeight": 60,
+  "icon": "./thumbnail.png",
   "props": [
     {
       "name": "label",
