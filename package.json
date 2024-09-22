@@ -1,7 +1,7 @@
 {
-  "name": "kazlib",
-  "description": "Kaz library of Adalo components.",
-  "version": "1.0.0",
+  "name": "@cosmith/line-bar",
+  "description": "Line bar from cosmith llc",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "ISC",
   "author": "",
